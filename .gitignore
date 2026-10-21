@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+data/
+*.egg-info/
+
+# Provided evaluation resources — do not commit
+vllm-0.10.1/
+datasets_public/
+en.subject.pdf
+moulinette-ubuntu

@@ -1,0 +1,9 @@
+[project]
+name = "rag-against-the-machine"
+version = "0.1.0"
+description = "A Retrieval-Augmented Generation system over the vLLM codebase."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fire>=0.7.1",
+]
